@@ -1,6 +1,6 @@
-### Giới thiệu
+## Giới thiệu
 
-Tôi là **Nguyễn Phan Đức Minh**, một kỹ sư và nghiên cứu viên AI chuyên về Deep Learning, Machine Learning, Computer Vision và phát triển ứng dụng Mobile/Website tích hợp AI. Tôi có kinh nghiệm sâu trong phân tích, xử lý và trực quan hóa ảnh y tế, nông nghiệp, và đời sống, sử dụng các mô hình CNN, Transformer, GAN. Ngoài ra, tôi phát triển ứng dụng, website bằng React, NextJS và Flutter, triển khai mô hình AI bằng Flask/FastAPI, và thực hiện các bài toán Computer Vision (Classification, Object Detection, Segmentation) cũng như NLP (Clinical Notes Classification, BERT, BioBERT).
+Tôi là Nguyễn Phan Đức Minh, một kỹ sư và nghiên cứu viên AI chuyên về Deep Learning, Machine Learning, Computer Vision và phát triển ứng dụng Mobile/Website tích hợp AI. Tôi có kinh nghiệm sâu trong phân tích, xử lý và trực quan hóa ảnh y tế, nông nghiệp, và đời sống, sử dụng các mô hình CNN, Transformer, GAN. Ngoài ra, tôi phát triển ứng dụng, website bằng React, NextJS và Flutter, triển khai mô hình AI bằng Flask/FastAPI, và thực hiện các bài toán Computer Vision (Classification, Object Detection, Segmentation) cũng như NLP (Clinical Notes Classification, BERT, BioBERT).
 
 ---
 
@@ -24,8 +24,13 @@ Tôi là **Nguyễn Phan Đức Minh**, một kỹ sư và nghiên cứu viên A
 ---
 
 ## Liên hệ
+
 GitHub: https://github.com/nguyen-phan-duc-minh  
+
 LinkedIn: https://linkedin.com/in/nguyen-phan-duc-minh  
+
 Website: https://nguyen-phan-duc-minh.github.io/portfolio/
+
 Email: SWminh0918195615@gmail.com
+
 Phone/Zalo: 09341.900.61
