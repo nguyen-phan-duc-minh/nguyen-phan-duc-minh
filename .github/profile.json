@@ -1,0 +1,11 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Nguyễn Phan Đức Minh",
+  "jobTitle": "AI Engineer",
+  "url": "https://github.com/nguyen-phan-duc-minh",
+  "sameAs": [
+    "https://linkedin.com/in/nguyen-phan-duc-minh",
+    "https://github.com/nguyen-phan-duc-minh"
+  ]
+}
