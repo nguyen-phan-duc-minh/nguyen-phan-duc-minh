@@ -16,27 +16,13 @@ Tôi là **Nguyễn Phan Đức Minh**, kỹ sư AI với kinh nghiệm trong De
 
 ## Dự án tiêu biểu
 
-### 1. Lung Cancer Classification – EfficientNetB1  
-- Phân loại CT scan phát hiện ung thư phổi  
-- Dataset: IQ-OTH/NCCD  
-- Sử dụng EfficientNetB1 + Transfer Learning  
-- Train bằng GPU Kaggle  
-
-### 2. 3D Eye Gaze Estimation  
-- Dự đoán hướng nhìn 3D từ ảnh mắt  
-- Model: MobileNetV3 + Regression Head  
-
-### 3. Mushroom Classification App  
-- Ứng dụng Mobile phân loại các loại nấm  
-- Tech: React Native + Flask + PyTorch  
-
-### 4. Human Activity Recognition using Wi-Fi CSI  
-- Nhận diện 27 hành động qua sóng Wi-Fi  
-- Dùng Random Forest, SVM, LSTM, ESP32  
-
-### 5. GAN Projects: CycleGAN & StyleGAN3  
-- Tạo ảnh MRI Face từ ảnh người  
-- Tạo ảnh 3D eyeball từ dataset trước/sau  
+https://github.com/nguyen-phan-duc-minh/LungCancer
+https://github.com/nguyen-phan-duc-minh/WiFiVision-Counting-Tools
+https://github.com/nguyen-phan-duc-minh/DurNet_VNDurLeaf_DurianGuard_Tool
+https://github.com/nguyen-phan-duc-minh/Dragon_Fruit_Application_And_Code
+https://github.com/nguyen-phan-duc-minh/OSD_YoloV10_Tiny_Detection
+https://github.com/nguyen-phan-duc-minh/Retina3D-Gen
+https://github.com/nguyen-phan-duc-minh/CounttingHumanUsingService 
 
 ---
 
