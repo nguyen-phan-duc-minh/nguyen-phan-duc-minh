@@ -34,3 +34,5 @@ Website: https://nguyen-phan-duc-minh.github.io/portfolio/
 Email: SWminh0918195615@gmail.com
 
 Phone/Zalo: 09341.900.61
+
+ORCID: 0009-0000-9436-9893
