@@ -1,6 +1,6 @@
 ## Giới thiệu
 
-Tôi là Nguyễn Phan Đức Minh, một kỹ sư và nghiên cứu viên AI chuyên về Deep Learning, Machine Learning, Computer Vision và phát triển ứng dụng Mobile/Website tích hợp AI. Tôi có kinh nghiệm sâu trong phân tích, xử lý và trực quan hóa ảnh y tế, nông nghiệp, và đời sống, sử dụng các mô hình CNN, Transformer, GAN. Ngoài ra, tôi phát triển ứng dụng, website bằng React, NextJS và Flutter, triển khai mô hình AI bằng Flask/FastAPI, và thực hiện các bài toán Computer Vision (Classification, Object Detection, Segmentation) cũng như NLP (Clinical Notes Classification, BERT, BioBERT).
+Tôi là Nguyễn Phan Đức Minh, một kỹ sư và nghiên cứu viên AI chuyên về NLP, LLM, RAG, Agent and Multi Agents với các dự án chatbot giới thiệu, tư vấn sản phẩm cho khách hàng với giọng điệu riêng, AI content chatbot theo trend hot để tạo nội dung cho các bài viết thu hút khách hàng, agent hỗ trợ tư vấn đầu tư cổ phiếu và tự động đầu tư nếu cần,.... Bên cạnh đó, Deep Learning, Machine Learning, Computer Vision và phát triển ứng dụng Mobile/Website tích hợp AI. Tôi có kinh nghiệm sâu trong phân tích, xử lý và trực quan hóa ảnh y tế, nông nghiệp, và đời sống, sử dụng các mô hình CNN, Transformer, GAN. Ngoài ra, tôi phát triển ứng dụng, website bằng React, NextJS và Flutter, triển khai mô hình AI bằng Flask/FastAPI, và thực hiện các bài toán Computer Vision (Classification, Object Detection, Segmentation) cũng như NLP (Clinical Notes Classification, BERT, BioBERT).
 
 ---
 
