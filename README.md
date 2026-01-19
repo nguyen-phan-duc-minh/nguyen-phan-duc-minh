@@ -7,7 +7,7 @@ Tôi là Nguyễn Phan Đức Minh, một kỹ sư và nghiên cứu viên AI v�
 ## Dự án tiêu biểu
 
 ### Chatbot Nguyen Minh Khang Courses (LLM, RAG, Ollama, Qwen, Qdrant, Semantic Chunking(json files), Multilingual embedding model)
-- Link: https://github.com/nguyen-phan-duc-minh/LungCancer](https://github.com/nguyen-phan-duc-minh/chatbot-company-info-nmk
+- Link: https://github.com/nguyen-phan-duc-minh/chatbot-company-info-nmk
 ### Lung Cancer Classification (EfficientNetB1)
 - Link: https://github.com/nguyen-phan-duc-minh/LungCancer
 ### WiFiVision – Counting Tools (Wi-Fi CSI + Vision)
