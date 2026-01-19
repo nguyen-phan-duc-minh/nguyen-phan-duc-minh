@@ -6,19 +6,21 @@ Tôi là Nguyễn Phan Đức Minh, một kỹ sư và nghiên cứu viên AI v�
 
 ## Dự án tiêu biểu
 
-### 1. Lung Cancer Classification (EfficientNetB1)
+### Chatbot Nguyen Minh Khang Courses (LLM, RAG, Ollama, Qwen, Qdrant, Semantic Chunking(json files), Multilingual embedding model)
 - Link: https://github.com/nguyen-phan-duc-minh/LungCancer
-### 2. WiFiVision – Counting Tools (Wi-Fi CSI + Vision)
+### Lung Cancer Classification (EfficientNetB1)
+- Link: https://github.com/nguyen-phan-duc-minh/LungCancer
+### WiFiVision – Counting Tools (Wi-Fi CSI + Vision)
 - Link: https://github.com/nguyen-phan-duc-minh/WiFiVision-Counting-Tools
-### 3. DurNet – Nhận diện bệnh lá sầu riêng (MobileNetV3 + TinyViT)
+### DurNet – Nhận diện bệnh lá sầu riêng (MobileNetV3 + TinyViT)
 - Link: https://github.com/nguyen-phan-duc-minh/DurNet_VNDurLeaf_DurianGuard_Tool
-### 4. Dragon Fruit Disease Detection – DragonFL dataset
+### Dragon Fruit Disease Detection – DragonFL dataset
 - Link: https://github.com/nguyen-phan-duc-minh/Dragon_Fruit_Application_And_Code
-### 5. OSD-YOLOv10 Tiny Drone Detection
+### OSD-YOLOv10 Tiny Drone Detection
 - Link: https://github.com/nguyen-phan-duc-minh/OSD_YoloV10_Tiny_Detection
-### 6. Retina3D-Gen – 3D Retina Reconstruction
+### Retina3D-Gen – 3D Retina Reconstruction
 - Link: https://github.com/nguyen-phan-duc-minh/Retina3D-Gen
-### 7. Counting Humans Using TensorFlow (Faster RCNN)
+### Counting Humans Using TensorFlow (Faster RCNN)
 - Link: https://github.com/nguyen-phan-duc-minh/CounttingHumanUsingService
 
 ---
@@ -27,11 +29,13 @@ Tôi là Nguyễn Phan Đức Minh, một kỹ sư và nghiên cứu viên AI v�
 
 GitHub: https://github.com/nguyen-phan-duc-minh  
 
+Youtube: https://www.youtube.com/@anhcoderaiengineer/
+
 LinkedIn: https://linkedin.com/in/nguyen-phan-duc-minh  
 
 Website: https://nguyen-phan-duc-minh.github.io/portfolio/
 
-Email: SWminh0918195615@gmail.com
+Email: npdminh.work@gmail.com
 
 Phone/Zalo: 09341.900.61
 
